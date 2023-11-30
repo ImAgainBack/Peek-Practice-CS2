@@ -18,4 +18,4 @@ For instance you can't spawn more than 10 bots each time, thats why you have to 
 
 If you have any questions, feel free to contact me.
 
-Thanks to rafex78 pedrajas and his video https://www.youtube.com/watch?v=yynsojdT2kU
+Credits to https://www.youtube.com/watch?v=yynsojdT2kU
