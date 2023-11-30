@@ -11,7 +11,7 @@ Then use the command in the cs2 terminal: exec infernobots
 if its for inferno and change the name according to each map.
 
 When you are on a map and launched the infernobots file you have to press "p" to change place on the map
-or to press "[" to replay this section.
+or to press "o" to replay this section.
 
 Watch out about some restrictions we have for the moment on CS2.
 For instance you can't spawn more than 10 bots each time, thats why you have to press "p" or "o"
